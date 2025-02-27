@@ -8,12 +8,15 @@ Cross-modal retrieval aims to match related samples across distinct modalities, 
 
 ## Motivation
 
+Problem of incredible results in cross-modal retrieval:
 <p align="center">
-<img src="https://github.com/siyuancncd/FUME/blob/main/FUME_problem1.png">
+<img src="https://github.com/siyuancncd/FUME/blob/main/FUME_problem1.png" width="600" height="200">
 </p>
 
+Counter-intuitive problem of Evidential Deep Learning in uncertainty
+estimation:
 <p align="center">
-<img src="https://github.com/siyuancncd/FUME/blob/main/FUME_problem2.png">
+<img src="https://github.com/siyuancncd/FUME/blob/main/FUME_problem2.png" width="600" height="200">
 </p>
 
 ## Framework
