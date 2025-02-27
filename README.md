@@ -43,7 +43,7 @@ The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, m
 - scikit-learn 1.5.0
 - scipy 1.13.1
 
-## Data
+## Datasets
 
 All datasets can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1_7kpsHMM81hw3gnTSV83kw?pwd=mm5e) with extraction code "mm5e". 
 
