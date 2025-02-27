@@ -41,3 +41,9 @@ The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, m
 ## Train and test
 
 ## Citation
+
+## Acknowledgement
+
+The code is inspired by [Deep supervised cross-modal retrieval](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html
+) and .
+
