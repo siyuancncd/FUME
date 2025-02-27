@@ -10,7 +10,7 @@ Cross-modal retrieval aims to match related samples across distinct modalities, 
 
 ## Framework
 
-![test](/model_FUME.pdf)
+<embed src="model_FUME.pdf" type="application/pdf" width="500px" height="500px" />
 
 ## Requirements
 
