@@ -10,6 +10,8 @@ Cross-modal retrieval aims to match related samples across distinct modalities, 
 
 ## Framework
 
+![Caption for the picture.](model_FUME.pdf)
+
 ## Requirements
 
 ## Data
