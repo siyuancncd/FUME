@@ -10,7 +10,10 @@ Cross-modal retrieval aims to match related samples across distinct modalities, 
 
 ## Framework
 
-![test](./tools/FUME_framework.png)
+<p align="center">
+<img src="https://github.com/siyuancncd/FUME/FUME_framework.png" width="850" height="600">
+</p>
+
 
 ## Requirements
 
