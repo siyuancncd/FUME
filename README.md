@@ -14,7 +14,8 @@ Cross-modal retrieval aims to match related samples across distinct modalities, 
 <img src="https://github.com/siyuancncd/FUME/blob/main/FUME_framework.png">
 </p>
 
-
+The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, modality-specific DNNs ($f^I(\cdot)$ and $f^T(\cdot)$) project image modality samples $\mathcal X^I$ and text modality samples $\mathcal X^T$ into a common space. Secondly, the representations ($\mathbf{z}^I$ and $\mathbf{z}^T$) in the common space map to membership degrees ($\mathbf{m}^I$ and $\mathbf{m}^T$). Finally, the membership degrees and labels ($\mathcal Y$) are inputted into the function $\phi^{tr}(\cdot, \cdot)$
+    to determine the \rev{category credibility during training ($\mathbf{r}^I$ and $\mathbf{r}^T$). These category credibilities} are then used to compute loss $\mathcal L_{fml}$ and supervise the learning of the entire neural network. At the same time, Consistency learning is employed to eliminate the cross-modal discrepancy. During the optimization process, FUME will reduce the decision uncertainty of each modality, ultimately reducing the cross-modal uncertainty.
 ## Requirements
 
 ## Data
