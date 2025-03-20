@@ -45,10 +45,9 @@ The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, m
 
 ## Datasets
 
-....
-Following [DSCMR](https://github.com/penghu-cs/DSCMR)
 
-These datasets can be downloaded from the following URLs:
+Following [DSCMR](https://github.com/penghu-cs/DSCMR), these datasets can be downloaded from the following URLs:
+
 1 Wikipedia: http://www.svcl.ucsd.edu/projects/crossmodal/
 2 NUS-WIDE: http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm
 3 XMediaNet: http://www.icst.pku.edu.cn/mipl/XMedia/
