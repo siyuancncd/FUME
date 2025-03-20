@@ -45,7 +45,16 @@ The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, m
 
 ## Datasets
 
-All datasets can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1_7kpsHMM81hw3gnTSV83kw?pwd=mm5e) with extraction code "mm5e". 
+....
+Following [DSCMR](https://github.com/penghu-cs/DSCMR)
+
+These datasets can be downloaded from the following URLs:
+1 Wikipedia: http://www.svcl.ucsd.edu/projects/crossmodal/
+2 NUS-WIDE: http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm
+3 XMediaNet: http://www.icst.pku.edu.cn/mipl/XMedia/
+
+For the reason of the license, please download the raw data and extract the features using the VGG19 and Sentence CNN. Please refer to our paper to get the details of extraction.
+For text, the Sentence CNN code can be obtained from https://github.com/yoonkim/CNN_sentence.
 
 ## Train and test
 
