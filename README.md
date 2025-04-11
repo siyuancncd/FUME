@@ -57,7 +57,9 @@ For text, the Sentence CNN code can be obtained from https://github.com/yoonkim/
 
 ## Train and test
 
-coming soon...
+```
+python main.py
+```
 
 ## Citation
 
@@ -65,11 +67,13 @@ coming soon...
 
 ## Question?
 
-For any questions, feel free to email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
+If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
 
 ## Future Work
 
-coming soon...
+1. Extend FUME to Multi-modal classification. (ICML 2025 under review).
+2. Existing uncertainty estimation mechanisms lack calibration.
+3. Extended FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID.
 
 ## Acknowledgement
 
