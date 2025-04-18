@@ -4,7 +4,7 @@ Siyuan Duan, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, and Peng Hu. "Fuzz
 
 ## 
 
-:bangbang: I’m actively seeking a PhD position for Fall 2026 entry. If you believe my background aligns with your research needs, please feel free to contact me via email at siyuanduancn@gmail.com.
+:bangbang: **I’m actively seeking a PhD position for Fall 2026 entry.** If you believe my background aligns with your research needs, please feel free to contact me via email at siyuanduancn@gmail.com.
 
 ## Abstract
 
