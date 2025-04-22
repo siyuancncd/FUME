@@ -77,7 +77,7 @@ If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuandua
 
 1. Extend FUME to Multi-modal classification. (ICML 2025 under review).
 2. Existing uncertainty estimation mechanisms lack calibration.
-3. Extend FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID.
+3. Extend FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID and healthcare.
 
 ## Acknowledgement
 
