@@ -75,7 +75,7 @@ If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuandua
 
 ## Future Work
 
-1. Extend FUME to Multi-modal classification. (Accepted by ICML 2025: [FUML](https://github.com/siyuancncd/FUML).
+1. Extend FUME to Multi-modal classification. (Accepted by ICML 2025: [FUML](https://github.com/siyuancncd/FUML)).
 2. Existing uncertainty estimation mechanisms lack calibration.
 3. Extend FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID and healthcare.
 
