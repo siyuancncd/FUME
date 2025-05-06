@@ -40,12 +40,14 @@ The overview of the proposed Fuzzy Multimodal learning (FUME) method. Firstly, m
 
 ## Requirements
 
-- Python 3.9.0
-- torch 2.3.1
-- torchvision 0.18.1
-- numpy 1.26.4
-- scikit-learn 1.5.0
-- scipy 1.13.1
+```
+Python==3.9.0
+torch==2.3.1
+torchvision==0.18.1
+numpy==1.26.4
+scikit-learn==1.5.0
+scipy==1.13.1
+```
 
 ## Datasets
 
