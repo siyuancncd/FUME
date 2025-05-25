@@ -162,7 +162,7 @@ def train_val_test_model(model, data_loaders, optimizer, alpha, num_epochs=500, 
                     results['corresponding_test_T2I_mAP_Threshold=0.5'] = txt2img_t
                     results['corresponding_test_Aver_mAP_Threshold=0.5'] = (img2txt_t + txt2img_t) / 2.
 
-                    np.save(folder_path+'/I_feat.npy', t_imgs) # 记得加上保存日期和时间
+                    np.save(folder_path+'/I_feat.npy', t_imgs)
                     np.save(folder_path+'/T_feat.npy', t_txts)
                     np.save(folder_path+'/I2T_uncer.npy', img2txt_u)
                     np.save(folder_path+'/T2I_uncer.npy', txt2img_u)
