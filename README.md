@@ -69,7 +69,14 @@ python main.py
 
 ## Citation
 
-coming soon...
+```
+@inproceedings{duan2025CVPR,
+  title={Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval},
+  author={Duan, Siyuan and Sun, Yuan and Peng, Dezhong and Liu, Zheng and Song, Xiaomin and Hu, Peng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}
+```
 
 ## Question?
 
