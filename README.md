@@ -71,6 +71,8 @@ python main.py
 
 ## Citation
 
+If this codebase is useful for your work, please cite our paper:
+
 ```
 @inproceedings{duan2025CVPR,
   title={Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval},
@@ -96,5 +98,5 @@ The code is inspired by
 
 * [Deep supervised cross-modal retrieval](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) 
 
-* [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html).
+* [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html)
 
