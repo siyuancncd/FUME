@@ -2,7 +2,7 @@
 
 Siyuan Duan, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, and Peng Hu. "Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval". (CVPR 2025, PyTorch Code)
 
-Paper is available at [here](https://github.com/siyuancncd/FUME/blob/main/src/FUME_paper.pdf).
+Paper is available at [here](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Fuzzy_Multimodal_Learning_for_Trusted_Cross-modal_Retrieval_CVPR_2025_paper.pdf).
 
 ## 
 
