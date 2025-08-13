@@ -94,7 +94,7 @@ If you have any questions, please email siyuanduancn AT gmail DOT com.
 
 ## Future Work
 
-1. Extend FUME to Multi-modal classification. (Accepted by ICML 2025: [FUML](https://github.com/siyuancncd/FUML)).
+1. Extend FUME to Multi-modal classification. (Accepted by **ICML 2025**: [Deep Fuzzy Multi-view Learning for Reliable Classification](https://github.com/siyuancncd/FUML)).
 2. Existing uncertainty estimation mechanisms lack calibration.
 3. Extend FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID and healthcare.
 
@@ -103,6 +103,3 @@ If you have any questions, please email siyuanduancn AT gmail DOT com.
 The code is inspired by 
 
 * [Deep supervised cross-modal retrieval](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) 
-
-* [Evidential Deep Learning to Quantify Classification Uncertainty](https://proceedings.neurips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html)
-
