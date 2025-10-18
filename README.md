@@ -102,4 +102,5 @@ If you have any questions, please email siyuanduancn AT gmail DOT com.
 
 The code is inspired by 
 
-* [Deep supervised cross-modal retrieval](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) 
+* [Deep supervised cross-modal retrieval](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html)
+* [Evidential deep learning](https://github.com/aamini/evidential-deep-learning)
