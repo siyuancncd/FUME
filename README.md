@@ -60,6 +60,8 @@ Following [DSCMR](https://github.com/penghu-cs/DSCMR), these datasets can be dow
 For the reason of the license, please download the raw data and extract the features using the VGG19 and Sentence CNN. Please refer to our paper to get the details of extraction.
 For text, the Sentence CNN code can be obtained from https://github.com/yoonkim/CNN_sentence.
 
+You can also use our provided features: [Baidu Disk](https://pan.baidu.com/s/1B497czcviS5eFEdEWRg39w?pwd=1122)
+
 ## Train and test
 
 ```
