@@ -1,6 +1,6 @@
 # FUME
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
     <img src="https://komarev.com/ghpvc/?username=siyuancncd&repo=FUME" alt="GitHub Views">
 </p>
