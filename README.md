@@ -1,5 +1,10 @@
 # FUME
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
+    <img src="https://komarev.com/ghpvc/?username=siyuancncd&repo=FUME" alt="GitHub Views">
+</p>
+
 Siyuan Duan, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, and Peng Hu. "[Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Fuzzy_Multimodal_Learning_for_Trusted_Cross-modal_Retrieval_CVPR_2025_paper.pdf)". (CVPR 2025, PyTorch Code)
 
 - Supplementary material is available at [here](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Duan_Fuzzy_Multimodal_Learning_CVPR_2025_supplemental.pdf).
