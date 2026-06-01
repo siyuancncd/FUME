@@ -97,6 +97,15 @@ If this codebase is useful for your work, please cite our papers:
 }
 ```
 
+```
+@article{duan2026robust,
+  title={Robust Fuzzy Multi-view Learning under View Conflict},
+  author={Duan, Siyuan and Sun, Yuan and Peng, Dezhong and Chen, Yingke and Peng, Xi and Hu, Peng},
+  journal={arXiv preprint arXiv:2605.24475},
+  year={2026}
+}
+```
+
 ## Question?
 
 If you have any questions, please email siyuanduancn AT gmail DOT com.
