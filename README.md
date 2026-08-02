@@ -112,7 +112,7 @@ If you have any questions, please email siyuanduancn AT gmail DOT com.
 
 ## Future Work
 
-1. **Extend FUME to Multi-modal classification.** (Accepted by **ICML 2025**: [Deep Fuzzy Multi-view Learning for Reliable Classification](https://github.com/siyuancncd/FUML); Submitted to Arxiv'2026: [Robust Fuzzy Multi-view Learning under View
+1. **Extend FUME to Multi-modal classification.** (Accepted by **ICML 2025**: [Deep Fuzzy Multi-view Learning for Reliable Classification](https://github.com/siyuancncd/FUML); Submitted to TPAMI: [Robust Fuzzy Multi-view Learning under View
 Conflict](https://arxiv.org/pdf/2605.24475)).
 2. **Existing uncertainty estimation mechanisms lack calibration.** (If you are interested in collaborating with me to solve this, please feel free to contact me at the email above.)
 3. **Extend FUME to cross-modal retrieval tasks that are closer to real scenarios, such as ReID, healthcare, remote sensing, and composed image retrieval.** (If you are interested in collaborating with me on these topics, please feel free to contact me at the email above.)
